@@ -1,0 +1,50 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male
+Amit,Sharma,42,B-102 Green Heights,MG Road,Mumbai,Maharashtra,male
+Sneha,Patil,29,C-44 Blossom Lane,Baner Road,Nagpur,Maharashtra,female
+Priya,Verma,33,D-221 Lake View,Sinhagad Road,Nashik,Maharashtra,female
+Karan,Joshi,37,E-11 Harmony Towers,New Pune Road,Pune,Maharashtra,male
+Anjali,Kumar,26,F-78 Sunrise Apartments,MG Road,Mumbai,Maharashtra,female
+Ravi,Naik,45,G-99 Riverwalk,New Pune Road,Nagpur,Maharashtra,male
+Meena,Desai,31,H-12 Park View,Sinhagad Road,Nashik,Maharashtra,female
+Suresh,Mehta,38,I-34 Galaxy Enclave,Baner Road,Pune,Maharashtra,male
+Pooja,Shetty,28,J-55 Palm Gardens,MG Road,Mumbai,Maharashtra,female
+Vikas,Kapoor,41,K-22 Oceanic Towers,New Pune Road,Nagpur,Maharashtra,male
+Neha,Trivedi,30,L-88 Lotus Residency,Sinhagad Road,Nashik,Maharashtra,female
+Rahul,Dubey,36,M-18 Urban Nest,Baner Road,Pune,Maharashtra,male
+Tina,Joshi,27,N-44 Sunshine Villas,MG Road,Mumbai,Maharashtra,female
+Arjun,Reddy,39,O-90 Serene Homes,New Pune Road,Nagpur,Maharashtra,male
+Divya,Sen,32,P-11 Elite Residency,Sinhagad Road,Nashik,Maharashtra,female
+Manoj,Gill,43,Q-76 Amber Gardens,Baner Road,Pune,Maharashtra,male
+Sonia,Bajaj,29,R-88 Maple Estate,MG Road,Mumbai,Maharashtra,female
+Deepak,Kulkarni,40,S-101 Silver Woods,New Pune Road,Nagpur,Maharashtra,male
+Kavita,Saxena,34,T-12 Ivy Enclave,Sinhagad Road,Nashik,Maharashtra,female
+Rakesh,Chavan,38,U-23 Crystal Park,Baner Road,Pune,Maharashtra,male
+Namrata,Mishra,31,V-65 Blue Hills,MG Road,Mumbai,Maharashtra,female
+Nikhil,Varma,36,W-89 Emerald Court,New Pune Road,Nagpur,Maharashtra,male
+Swati,Gupta,28,X-09 Coral Homes,Sinhagad Road,Nashik,Maharashtra,female
+Yash,Deshmukh,35,Y-72 Nova Heights,Baner Road,Pune,Maharashtra,male
+Priti,Rastogi,30,Z-21 Green Park,MG Road,Mumbai,Maharashtra,female
+Harsh,Shah,42,A-84 Galaxy Residency,New Pune Road,Nagpur,Maharashtra,male
+Bhavna,Nair,33,B-15 Heritage View,Sinhagad Road,Nashik,Maharashtra,female
+Sunil,Dalvi,39,C-66 Hilltop Residency,Baner Road,Pune,Maharashtra,male
+Isha,Mali,27,D-32 Sapphire Homes,MG Road,Mumbai,Maharashtra,female
+Alok,Yadav,44,E-53 Parkside,New Pune Road,Nagpur,Maharashtra,male
+Vidya,Menon,30,F-91 River View,Sinhagad Road,Nashik,Maharashtra,female
+Tarun,Jain,37,G-78 Cloud Nine,Baner Road,Pune,Maharashtra,male
+Rina,Ghosh,28,H-10 Tranquil Greens,MG Road,Mumbai,Maharashtra,female
+Vivek,Tripathi,41,I-99 Prestige Villa,New Pune Road,Nagpur,Maharashtra,male
+Anu,Das,32,J-12 Serenity Valley,Sinhagad Road,Nashik,Maharashtra,female
+Rajeev,Patel,36,K-33 Orchid Gardens,Baner Road,Pune,Maharashtra,male
+Shalini,Agarwal,29,L-44 Green Leaf,MG Road,Mumbai,Maharashtra,female
+Mahesh,Kamble,43,M-71 Emerald Valley,New Pune Road,Nagpur,Maharashtra,male
+Preeti,Sawant,31,N-07 Spring Blossom,Sinhagad Road,Nashik,Maharashtra,female
+Gaurav,Pandey,39,O-65 Meadow Park,Baner Road,Pune,Maharashtra,male
+Simran,Bose,26,P-90 Bella Vista,MG Road,Mumbai,Maharashtra,female
+Nitin,Chatterjee,42,Q-22 Lotus Lake,New Pune Road,Nagpur,Maharashtra,male
+Ruchi,Verghese,34,R-19 Hill Crest,Sinhagad Road,Nashik,Maharashtra,female
+Abhishek,Singh,37,S-49 Pine Grove,Baner Road,Pune,Maharashtra,male
+Snehal,Jagtap,30,T-72 Maple Meadows,MG Road,Mumbai,Maharashtra,female
+Kunal,Mathur,41,U-38 Eden Park,New Pune Road,Nagpur,Maharashtra,male
+Lavanya,Chakraborty,28,V-11 Zenith Estate,Sinhagad Road,Nashik,Maharashtra,female
+Ajay,Banerjee,35,W-91 Moonlight Villa,Baner Road,Pune,Maharashtra,male
